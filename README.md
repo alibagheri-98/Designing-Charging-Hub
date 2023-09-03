@@ -18,3 +18,8 @@ and an Altium Designer schematic diagram, as displayed in the following picture:
 
 ## Phase 3: Experimentation
 Upon moving to the experimentation phase, an unexpected issue arose when the TNY280PN IC became excessively hot and ultimately failed within a few minutes. In response, we devised the idea of implementing a heat sink. This modification yielded excellent results, allowing the production line to begin using the charging hub successfully.
+
+## Note:
+- The report of my internship is in the "Report" folder.
+- I received a "V_G" (Very Good) grade for my internship.
+- My university supervisor for this internship was Dr. Zolghadri
