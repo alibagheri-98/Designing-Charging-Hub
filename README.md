@@ -9,6 +9,7 @@ In the second phase, I employed the "PI Express" software to design the transfor
 <br>
 ![Screenshot (4622)](https://github.com/alibagheri-98/Designing-Charging-Hub/assets/112773855/295e414d-2313-45d9-8b1e-00c35124d7cb)
 <br>
+<br>
 and an Altium Designer schematic diagram, as displayed in the following picture:
 <br>
 ![Screenshot (4624)](https://github.com/alibagheri-98/Designing-Charging-Hub/assets/112773855/cd3fdaaf-e0a4-4998-91c2-dd930f468a1f)
