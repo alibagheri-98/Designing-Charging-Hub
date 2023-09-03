@@ -8,6 +8,7 @@ I commenced by conducting an extensive literature review of the ISO 13485 standa
 In the second phase, I employed the "PI Express" software to design the transformer. Subsequently, I thoroughly evaluated my design to ensure its suitability for the project. This included creating a schematic diagram, as shown in following image:
 <br>
 ![Screenshot (4622)](https://github.com/alibagheri-98/Designing-Charging-Hub/assets/112773855/295e414d-2313-45d9-8b1e-00c35124d7cb)
+<br>
 and an Altium Designer schematic diagram, as displayed in the following picture:
 <br>
 ![Screenshot (4624)](https://github.com/alibagheri-98/Designing-Charging-Hub/assets/112773855/cd3fdaaf-e0a4-4998-91c2-dd930f468a1f)
