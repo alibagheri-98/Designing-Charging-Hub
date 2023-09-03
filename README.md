@@ -21,5 +21,7 @@ Upon moving to the experimentation phase, an unexpected issue arose when the TNY
 
 ## Note:
 - The report of my internship is in the "Report" folder.
+- The simulations are in the "Simulation" folder.
 - I received a "V_G" (Very Good) grade for my internship.
 - My university supervisor for this internship was Dr. Zolghadri
+- As per Sharif University of Technology's guidelines, internship reports should be in Persian. If you are interested in learning more about this project but are not proficient in Persian, please don't hesitate to reach out to me. We can arrange a meeting, and I will be happy to explain the project to you. You can contact me at [bagheri9877@gmail.com](bagheri9877@gmail.com).
